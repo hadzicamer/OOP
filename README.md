@@ -1,3 +1,3 @@
 # OOP
 C++ 
-Zadaci iz predmeta Programiranje III (sada PRII) sa Fakulteta Informacijskih Tehnologija, Mostar
+Zadaci iz predmeta Programiranje III sa Fakulteta Informacijskih Tehnologija, Mostar
